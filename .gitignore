@@ -1,0 +1,34 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Credentials/session material
+cookies.txt
+*.cookie
+*tokens*.json
+*token*.json
+*.har
+
+# Downloaded captions and generated outputs
+outputs/
+downloads/
+*.vtt
+*.srt
+*.ass
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
