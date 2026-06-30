@@ -128,6 +128,12 @@ summary.json
 - Never commit `.env`, cookies, tokens, `outputs/`, `.vtt`, `.srt`, or `.zip` files.
 - Change passwords that were pasted into chats or logs.
 
+## Credits
+
+Created by [jush0147](https://github.com/jush0147) with implementation assistance from Hermes Agent by Nous Research.
+
+Hermes Agent is credited here because GitHub's contributor graph only counts commits authored by a GitHub-linked identity. This repository was uploaded through the owner's GitHub credentials, while the assistant does not have its own GitHub account to appear as a normal contributor.
+
 ## License
 
 MIT
